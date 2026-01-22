@@ -18,9 +18,9 @@
 I'm a passionate **Software Engineer** with strong experience in designing and delivering scalable, production-grade systems. Based in **Islamabad, Pakistan**, I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code.
 </div>
 
-
-🔥 Highlights
-
+<div align="center">
+🔥 Highlights </div>
+  
 * 🔭 **Currently Working On:** [Quran Academy LMS](https://github.com/Sohaib0088) (Next.js) and [ReLink Automation Bot](https://github.com/Sohaib0088)
 * 👯 **Open to Collaborate:** AI-integrated platforms and scalable web applications
 * 🤝 **Seeking Support With:** Advanced NLP and Scaling Impactful Tech Solutions
