@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SOFTWARE%20ENGINEER&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Developer&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://64.media.tumblr.com/6c0b36873995f32b8514e865768266e7/tumblr_inline_p8n8rvYV2V1rax9p7_1280.png" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
@@ -12,12 +12,14 @@
 
 
 ---
-
-### 🚀 About Me
+<div align="center">
+🚀 About Me
 
 I'm a passionate **Software Engineer** with strong experience in designing and delivering scalable, production-grade systems. Based in **Islamabad, Pakistan**, I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code.
+</div>
 
-### 🔥 Highlights
+
+🔥 Highlights
 
 * 🔭 **Currently Working On:** [Quran Academy LMS](https://github.com/Sohaib0088) (Next.js) and [ReLink Automation Bot](https://github.com/Sohaib0088)
 * 👯 **Open to Collaborate:** AI-integrated platforms and scalable web applications
