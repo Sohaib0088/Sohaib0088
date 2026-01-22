@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/6c0b36873995f32b8514e865768266e7/tumblr_inline_p8n8rvYV2V1rax9p7_1280.png" width="100%" alt="Header Banner" />
+  <img src="Gemini_Generated_Image_9gvhgp9gvhgp9gvh.png" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
