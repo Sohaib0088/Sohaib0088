@@ -3,13 +3,19 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+
+<p align="center">
+  <a href="https://github.com/Sohaib0088">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ---
 
 ### 🚀 About Me
 
-I'm a passionate **Software Engineer** and **Full-Stack Developer** with strong experience in designing and delivering scalable, production-grade systems and **AI-enabled applications**. Based in **Islamabad, Pakistan**, I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code.
+I'm a passionate **Software Engineer** with strong experience in designing and delivering scalable, production-grade systems. Based in **Islamabad, Pakistan**, I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code.
 
 ### 🔥 Highlights
 
@@ -71,7 +77,7 @@ I'm a passionate **Software Engineer** and **Full-Stack Developer** with strong 
   <a href="https://linkedin.com/in/sohaib-khan08">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://statuesque-capybara-bc0fll.netlify.app">
+  <a href="https://sohaibportfollio.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
