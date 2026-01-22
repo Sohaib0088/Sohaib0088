@@ -1,4 +1,8 @@
-# Hi 👋, I'm Muhammad Sohaib
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Muhammad%20Sohaib&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=25" width="100%" />
+</p>
+
+## Hi 👋, I'm Muhammad Sohaib
 
 ### 🚀 About Me
 
@@ -6,7 +10,7 @@
 
 ### 🔥 Highlights
 
-* [cite_start]🔭 **Currently Working On:** [Quran Academy LMS](https://github.com/Sohaib0088) (Next.js) [cite: 50] [cite_start]and [ReLink Automation Bot](https://github.com/Sohaib0088) [cite: 67, 70]
+* [cite_start]🔭 **Currently Working On:** [Quran Academy LMS](https://github.com/sohaib-khan08) (Next.js) [cite: 50] [cite_start]and [ReLink Automation Bot](https://github.com/sohaib-khan08) [cite: 67, 70]
 * [cite_start]👯 **Open to Collaborate:** AI-integrated platforms and scalable web applications [cite: 36, 43]
 * [cite_start]🤝 **Seeking Support With:** Advanced NLP and Scaling Impactful Tech Solutions [cite: 8, 30]
 * [cite_start]💬 **Ask Me About:** React, Python, AI/ML Integration, and API Design [cite: 8, 22, 23]
@@ -51,12 +55,12 @@
 
 ### 📊 My GitHub Stats
 
-![Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib-khan08&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-khan08&layout=compact&theme=radical)
+![Sohaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohaib0088&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib0088&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Let's Connect!
 
-[cite_start][<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sohaib-khan08 [cite: 16])
-[cite_start][<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />](https://sohaibportfollio.netlify.app [cite: 15])
+[cite_start][<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/sohaib-khan08) [cite: 16]
+[cite_start][<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />](https://statuesque-capybara-bc0fll.netlify.app) [cite: 15]
