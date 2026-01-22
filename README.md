@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Gemini_Generated_Image_9gvhgp9gvhgp9gvh.png" width="100%" alt="Header Banner" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
 
