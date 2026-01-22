@@ -1,6 +1,8 @@
-Hi 👋, I'm Muhammad Sohaib
+Hi 👋, 
+I'm Muhammad Sohaib
 🚀 About Me
 I'm a passionate Software Engineer and Full Stack Developer with strong experience in designing and delivering scalable, production-grade systems and AI-enabled applications. Based in Islamabad, Pakistan , I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code. I thrive on solving real-world problems through high-quality, efficient development.
+
 🔥 Highlights
 🔭 Currently Working On: Quran Academy LMS (Next.js) and ReLink Automation Bot  📚
 
