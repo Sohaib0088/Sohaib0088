@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
 
 <p align="center">
@@ -8,23 +6,32 @@
   </a>
 </p>
 
-
 ---
+
 <div align="center">
 🚀 About Me
 
-I'm a passionate **Software Engineer** with strong experience in designing and delivering scalable, production-grade systems. Based in **Islamabad, Pakistan**, I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code.
+I'm a passionate <b>Software Engineer</b> with strong experience in designing and delivering scalable, production-grade systems. Based in <b>Islamabad, Pakistan</b>, I specialize in architecting backend-heavy solutions and translating complex requirements into clean, maintainable code.
 </div>
 
+---
+
 <div align="center">
-🔥 Highlights </div>
-  
-* 🔭 **Currently Working On:** [Quran Academy LMS](https://github.com/Sohaib0088) (Next.js) and [ReLink Automation Bot](https://github.com/Sohaib0088)
-* 👯 **Open to Collaborate:** AI-integrated platforms and scalable web applications
-* 🤝 **Seeking Support With:** Advanced NLP and Scaling Impactful Tech Solutions
-* 💬 **Ask Me About:** React, Python, AI/ML Integration, and API Design
-* 📫 **Reach Me At:** [schaib021222@gmail.com](mailto:schaib021222@gmail.com)
-* ⚡ **Fun Fact:** I’m a **FIFA 2019 Winner** (Sep 2023) and a football enthusiast! ⚽🎮
+🔥 Highlights
+</div>
+
+* 🔭 **Currently Working On:**  
+  👉 <a href="https://opsautomate.vercel.app" target="_blank">Ops Automate Project</a> (Automation Platform)
+
+* 🚀 **Recently Completed Projects:**  
+  👉 <a href="https://hiremorph.com" target="_blank">HireMorph</a> (AI Hiring Platform)  
+  👉 <a href="https://quranhostinglms.com" target="_blank">Quran Hosting LMS</a> (Learning Management System)
+
+* 👯 **Open to Collaborate:** AI-integrated platforms and scalable web applications  
+* 🤝 **Seeking Support With:** Advanced NLP and Scaling Impactful Tech Solutions  
+* 💬 **Ask Me About:** React, Python, AI/ML Integration, and API Design  
+* 📫 **Reach Me At:** <a href="mailto:schaib021222@gmail.com">schaib021222@gmail.com</a>  
+* ⚡ **Fun Fact:** I’m a <b>FIFA 2019 Winner</b> (Sep 2023) and a football enthusiast! ⚽🎮  
 
 ---
 
@@ -65,8 +72,8 @@ I'm a passionate **Software Engineer** with strong experience in designing and d
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sohaib0088&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib0088&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sohaib0088&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohaib0088&layout=compact&theme=radical" />
 </p>
 
 ---
