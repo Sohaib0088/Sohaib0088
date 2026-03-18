@@ -84,7 +84,7 @@ I'm a passionate <b>Software Engineer</b> with strong experience in designing an
   <a href="https://linkedin.com/in/sohaib-khan08">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sohaibportfollio.netlify.app">
+  <a href="https://sohaibkhan08.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
